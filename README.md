@@ -11,7 +11,7 @@ Dashboard dibuat menggunakan **Tableau** untuk memberikan wawasan bagi HR dan ma
 Dataset internal contoh digunakan untuk analisis ini.
 
 📎 Contoh visual data:  
-<a href="/mnt/data/SS-Visualisasi.png" target="_blank">Lihat Dataset / Screenshot Dashboard</a>
+<a https://github.com/syarohtzu/HRData/blob/main/HRData.csv"></a>
 
 ---
 
