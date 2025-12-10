@@ -11,7 +11,10 @@ Dashboard dibuat menggunakan **Tableau** untuk memberikan wawasan bagi HR dan ma
 Dataset internal contoh digunakan untuk analisis ini.
 
 📎 Contoh visual data:  
-<a https://github.com/syarohtzu/HRData/blob/main/HRData.csv"></a>
+<a href = "https://github.com/syarohtzu/HRData/blob/main/HRData.csv"> gass klik sini </a>
+
+## 📂 Tableau Dashboard
+<a href= "https://public.tableau.com/views/HRdata-analysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> klik di sini </a>
 
 ---
 
